@@ -1,1 +1,1 @@
-web: gunicorn activity.js
+web: gunicorn index.html
